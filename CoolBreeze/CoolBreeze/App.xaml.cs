@@ -11,7 +11,8 @@ using Xamarin.Forms.Xaml;
 
 [assembly: XamlCompilation(XamlCompilationOptions.Compile)]
 namespace CoolBreeze
-{
+{ 
+
     public partial class App : Application
     {
         public static MainViewModel ViewModel;
