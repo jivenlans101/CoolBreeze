@@ -12,7 +12,8 @@
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
-
+ 
+        
         <Label Margin="0,60,0,0" VerticalOptions="Start" HorizontalOptions="Center"
                Text="{Binding CurrentConditions.DisplayName}"  FontSize="Medium"/>
 
