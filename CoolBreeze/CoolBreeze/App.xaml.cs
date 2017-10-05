@@ -13,6 +13,7 @@ using Xamarin.Forms.Xaml;
 namespace CoolBreeze
 { 
 
+
     public partial class App : Application
     {
         public static MainViewModel ViewModel;
